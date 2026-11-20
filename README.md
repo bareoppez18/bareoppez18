@@ -1,16 +1,13 @@
-## Hi there 👋
+## hello from Philippines, i'm bareoppez18 👋
 
-<!--
-**bareoppez18/bareoppez18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Philippines.
 
-Here are some ideas to get you started:
+- 👯 Open to collaborating on open-source projects
+- ⚡ Fun fact: I debug faster with music on
+- ☕ Powered by coffee and late-night commits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=bareoppez18&theme=ayu&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bareoppez18&layout=compact&langs_count=8&hide_border=true&theme=ayu" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2dd4bf?style=for-the-badge&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Linux-2dd4bf?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Terraform-2dd4bf?style=for-the-badge&logoColor=white" alt="Terraform" />
